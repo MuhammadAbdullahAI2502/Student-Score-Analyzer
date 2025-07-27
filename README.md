@@ -4,7 +4,6 @@ Students_Scores_Analyzer is a Python application that provides a user-friendly i
 <img width="523" height="733" alt="PRO" src="https://github.com/user-attachments/assets/124c4286-a6b4-4254-bce4-27c1c431511c" />
 
 Usage:
-
 Prerequisites:
 
 Ensure you have Python installed.
@@ -12,7 +11,7 @@ Install required libraries using pip: pip install tkinter matplotlib
 Cloning the Repository:
 
 To get started, clone this repository to your local machine using the following command:
-https://github.com/MuhammadAbdullahAI2502/Student-Score-Analyzer/edit/main/README.md
+https://github.com/MuhammadAbdullahAI2502/Student-Score-Analyzer
 Running the Program:
 
 Navigate to the project directory: cd src
