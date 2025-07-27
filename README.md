@@ -7,6 +7,7 @@ Usage:
 
 
 Prerequisites:
+
 Ensure you have Python installed.
 Install required libraries using pip: pip install tkinter matplotlib
 Cloning the Repository:
