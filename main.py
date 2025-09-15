@@ -1,8 +1,7 @@
-import tkinter as tk
-from tkinter import *
 import statistics
 import matplotlib.pyplot as plt
 import streamlit as st
+
 class StudentScoresApp:
     def __init__(self, root):
         self.root = root
@@ -114,4 +113,5 @@ def main():
     root.mainloop()
 
 if __name__ == "__main__":
+
     main()
